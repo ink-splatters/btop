@@ -51,7 +51,7 @@ btop.1
 
 build
 bin
-btop
+/btop
 /obj/
 config.h
 .*/
@@ -87,3 +87,6 @@ _deps
 
 # CLion
 cmake-build-*
+.direnv
+.DS_Store
+/.pre-commit-config.yaml
